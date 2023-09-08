@@ -14,3 +14,5 @@ int main() //header
 	system("pause");
 	return 0; //return to OS
 } //end
+
+// Додав коментар
